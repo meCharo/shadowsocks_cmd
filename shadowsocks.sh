@@ -217,7 +217,7 @@ pre_install(){
     echo "---------------------------"
     echo "cipher = ${shadowsockscipher}"
     echo "---------------------------"
-    echo
+#    echo
     break
     done
 
