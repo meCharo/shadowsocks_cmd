@@ -221,7 +221,7 @@ pre_install(){
     break
     done
 
-    echo
+#    echo
 #    echo "Press any key to start...or Press Ctrl+C to cancel"
     char=`get_char`
     # Install necessary dependencies
