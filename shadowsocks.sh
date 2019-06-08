@@ -26,13 +26,13 @@ libsodium_url="https://github.com/jedisct1/libsodium/releases/download/1.0.15/li
 cur_dir=`pwd`
 # Stream Ciphers
 ciphers=(
+aes-256-cfb
 aes-256-gcm
 aes-192-gcm
 aes-128-gcm
 aes-256-ctr
 aes-192-ctr
 aes-128-ctr
-aes-256-cfb
 aes-192-cfb
 aes-128-cfb
 camellia-128-cfb
